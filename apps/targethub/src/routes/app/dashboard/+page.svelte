@@ -10,7 +10,7 @@
 		</Card>
 	</div>
 	<div class="col-3">
-		<Card ripple class="bg-success text-white">
+		<Card class="bg-success text-white">
 			<span class="fas fa-bold"></span>
 			<h3 class="text-end">Click Frenzy</h3>
 		</Card>

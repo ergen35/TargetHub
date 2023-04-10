@@ -40,13 +40,20 @@
 		"@svelteuidev/motion": "^0.11.1",
 		"@svelteuidev/preprocessors": "^0.11.1",
 		"@svelteuidev/prism": "^0.11.1",
+		"@types/node": "^18.15.11",
 		"cookie": "^0.5.0",
 		"cookie-universal": "^2.2.2",
 		"dayjs": "^1.11.7",
 		"fs": "^0.0.1-security",
+		"msql": "^1.0.3",
+		"mssql": "^9.1.1",
 		"passport": "^0.6.0",
 		"passport-local": "^1.0.0",
 		"path": "^0.12.7",
-		"svelte-preprocess": "^4.0.10"
+		"pg": "^8.10.0",
+		"reflect-metadata": "^0.1.13",
+		"sqlite3": "^5.1.6",
+		"svelte-preprocess": "^4.0.10",
+		"typeorm": "^0.3.13"
 	}
 }
